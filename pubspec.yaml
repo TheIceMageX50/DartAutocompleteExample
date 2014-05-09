@@ -1,0 +1,7 @@
+name: my_autocomplete_demo
+description: A fun demo of polymer.dart.
+dependencies:
+  polymer: any
+transformers:
+- polymer:
+    entry_points: web/testpage.html
